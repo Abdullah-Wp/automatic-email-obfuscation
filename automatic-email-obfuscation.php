@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Automatic Email Obfuscation
- * Plugin URI: https://abdullahwp.com/automatic-email-obfuscation
+ * Plugin URI: https://abdullahwp.com/automatic-email-obfuscation/
  * Description: Automatically detects and obfuscates visible email addresses and mailto links on the WordPress frontend.
  * Version: 1.1.0
  * Author: abdullahWp
